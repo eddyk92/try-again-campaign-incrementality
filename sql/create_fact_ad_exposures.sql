@@ -1,0 +1,2 @@
+-- fact_ad_exposures
+-- One row per user per ad exposure event.

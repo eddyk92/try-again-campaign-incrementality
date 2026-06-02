@@ -1,0 +1,2 @@
+-- fact_conversions
+-- One row per user conversion (subscription start).

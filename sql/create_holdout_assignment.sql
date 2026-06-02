@@ -1,0 +1,2 @@
+-- holdout_assignment
+-- Maps each user to treatment or holdout group.
