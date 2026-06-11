@@ -36,8 +36,6 @@ The analysis followed a marketing science framework:
 ## Key Findings
 =============================
 
-## Key Findings
-
 ### Conversion Rate Comparison
 
 * Exposed Users: 14.84%
