@@ -21,8 +21,6 @@ This project focuses only on campaign-driven conversions, not retention, engagem
 ## Analytical Approach 
 ==============================
 
-## Analytical Approach
-
 The analysis followed a marketing science framework:
 
 1. Build a user-level analytical dataset combining customer attributes, advertising exposure, and subscription outcomes.
